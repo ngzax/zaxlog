@@ -1,0 +1,2 @@
+# zaxlog
+An urbit weblog
