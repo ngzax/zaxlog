@@ -7,7 +7,7 @@ anchor: none
     <a href="https://urbit.org">
       <div class="logo"></div>
     </a>
-    <a href="/">~hosneb-rosler</a>
+    <a href="/">~winter-paches</a>
   </h3>
 </div>
 
