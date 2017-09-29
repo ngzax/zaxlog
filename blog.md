@@ -11,6 +11,11 @@ anchor: none
   </h3>
 </div>
 
-A simple blog built on Urbit.
+    :: A simple blog built on Urbit.
+    ::
+    :::: Heaven's Cavalry Rider
+      :: Ancient Celestial Mariner
+      :: Technological Engineer
+      :: Modern Reactionary
 
 <list dataType="post"></list>
