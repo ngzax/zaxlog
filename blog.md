@@ -18,4 +18,4 @@ anchor: none
       :: Technological Engineer
       :: Modern Reactionary
 
-<list dataType="post"></list>
+<list dataType="post" sortBy="date"></list>
